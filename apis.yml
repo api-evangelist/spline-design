@@ -1,0 +1,105 @@
+aid: spline-design
+name: Spline
+description: >-
+  Spline is a web-based, real-time collaborative 3D design platform used to
+  create interactive 3D scenes, animations, and product experiences for the
+  web, iOS, and Android. The Spline editor runs in the browser and supports
+  multi-user collaboration with comments, link sharing, and team workspaces.
+  Designers build scenes using primitives and modeling tools, a layer-based
+  material system, states, events, timeline animation, game controls, physics,
+  and particles. Scenes can be exported as GLTF/GLB, USDZ, STL, video, image
+  sequences, or as code for the web, SwiftUI, and Kotlin. Spline's developer
+  surface centers on runtime libraries — `@splinetool/runtime`, the
+  `@splinetool/react-spline` React component, the `r3f-spline` hook for
+  react-three-fiber, and `spline-ios` for Apple platforms — plus an embeddable
+  Spline Viewer web component. Inside scenes, Spline exposes a Real-time API
+  for dynamic data binding and webhooks for event-driven integrations. The
+  company also ships Hana, a web-based collaborative UI design tool with
+  infinite canvas, vector networks, visual effects, and motion design.
+  Spline's revenue model is SaaS subscription with Free, Starter ($12/mo
+  annual), Professional ($20/mo annual), and Enterprise tiers, plus a Spline
+  AI add-on ($5/seat/month, 2000 AI credits) for prompt-driven 3D generation.
+  There is no publicly documented Spline REST/management API or OpenAPI
+  specification at this time; programmatic surfaces are limited to the
+  runtime SDKs, the Real-time API, and webhooks exposed from within a scene.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - 3D Design
+  - 3D Modeling
+  - Collaborative Design
+  - Interactive 3D
+  - Web Embed
+  - WebGL
+  - Animation
+  - Motion Design
+  - Materials
+  - Physics
+  - Particles
+  - SwiftUI
+  - Kotlin
+  - React
+  - React Three Fiber
+  - GLTF
+  - USDZ
+  - Webhooks
+  - Real-time API
+  - AI 3D Generation
+  - Design Tools
+url: https://raw.githubusercontent.com/api-evangelist/spline-design/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://spline.design
+  - type: Documentation
+    url: https://docs.spline.design
+  - type: Application
+    url: https://app.spline.design
+  - type: Pricing
+    url: https://spline.design/pricing
+  - type: Blog
+    url: https://blog.spline.design
+  - type: Community
+    url: https://community.spline.design
+  - type: Academy
+    url: https://academy.spline.design
+  - type: Hana
+    url: https://spline.design/hana
+  - type: AI
+    url: https://spline.design/ai
+  - type: Webhooks
+    url: https://docs.spline.design/interaction-states-events-and-actions/webhooks
+  - type: RealTimeAPI
+    url: https://docs.spline.design/interaction-states-events-and-actions/real-time-api
+  - type: CodeAPIWeb
+    url: https://docs.spline.design/exporting-your-scene/web/code-api-for-web
+  - type: CodeAPISwiftUI
+    url: https://docs.spline.design/exporting-your-scene/apple-platform/code-api-for-swift-ui
+  - type: CodeAPIKotlin
+    url: https://docs.spline.design/exporting-your-scene/android/code-api-for-kotlin
+  - type: GitHub
+    url: https://github.com/splinetool
+  - type: ReactSDK
+    url: https://github.com/splinetool/react-spline
+  - type: R3FSDK
+    url: https://github.com/splinetool/r3f-spline
+  - type: iOSRuntime
+    url: https://github.com/splinetool/spline-ios
+  - type: NPMRuntime
+    url: https://www.npmjs.com/package/@splinetool/runtime
+  - type: Careers
+    url: https://www.ycombinator.com/companies/spline/jobs
+  - type: Contact
+    url: mailto:help@spline.design
+  - type: Twitter
+    url: https://twitter.com/splinetool
+  - type: YouTube
+    url: https://www.youtube.com/@splinetool
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
