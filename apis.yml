@@ -23,9 +23,20 @@ description: >-
   specification at this time; programmatic surfaces are limited to the
   runtime SDKs, the Real-time API, and webhooks exposed from within a scene.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/spline-design.png
 tags:
   - 3D Design
   - 3D Modeling
