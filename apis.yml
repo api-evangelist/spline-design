@@ -23,6 +23,17 @@ description: >-
   specification at this time; programmatic surfaces are limited to the
   runtime SDKs, the Real-time API, and webhooks exposed from within a scene.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
